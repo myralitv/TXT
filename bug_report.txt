@@ -1,1 +1,6 @@
-
+Bug ID: ID number, Name, Reporter, Submit Date
+Bug Overview: Summary, URL, Screenshot (Attachments) 
+Bug Enviroment: Platform, Operating System, Browser
+Bug Details: Steps to reproduce, Expected result, Actual result, Description
+Bug Tracking: Severity, Assignet to, Priority
+Notes
