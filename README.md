@@ -1,2 +1,2 @@
 # TXT
-Some .txt file (investigating GIT)
+Some .txt files (investigating GIT)
