@@ -1,0 +1,8 @@
+What skills we learned:
+Bash
+GIT
+Communication
+Mentoring
+Postman
+Teory of QA
+JS
